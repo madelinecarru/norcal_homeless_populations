@@ -3,7 +3,7 @@ This .csv format dataset contains point-in-time homeless population counts from 
 
 It was created for a class at the University of Washington iSchool in March 2021. The intended audience is policymakers and social service workers, with the intended purpose to create legislation and services serving rural homeless communities as well as tracking the rates of homelessness in remote areas of Northern California. The dataset was created from open access government reports from the Department of Housing and Urban Development (HUD), as provided by Continuums of Care (CoC), and it is freely available to the public.
 
-The naming convention for files should be: 'year_datasettype'. The year indicates the year in which the point-in-time count occurred, and the data set type indicates whether the data is raw or normalized. 
+The naming convention for files should be: `year_datasettype`. The year indicates the year in which the point-in-time count occurred, and the data set type indicates whether the data is raw or normalized. 
 
 # Data Dictionary
   |Variable | Variable Name |	Measurement Unit |	Allowed Values |	Definition |
