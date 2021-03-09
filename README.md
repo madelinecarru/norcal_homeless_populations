@@ -42,4 +42,4 @@ It was created for a class at the University of Washington iSchool in March 2021
  The data is freely available to the public.
  
  # Contact
- Madeline Carruthers madelinecarruthers@gmail.com
+ Madeline Carruthers, madelinecarruthers@gmail.com
