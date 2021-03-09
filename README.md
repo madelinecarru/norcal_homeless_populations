@@ -24,7 +24,7 @@ It was created for a class at the University of Washington iSchool in March 2021
   |accuralPeriodicity |	R/P1Y |
   |fn	| Madeline Carruthers |
   |hasEmail |	mailto: madelinecarruthers@gmail.com|
-  |description |	This dataset is a comination of point-in-time homeless counts conducted in January 2019 for a set of rural Northern California communities, including Humboldt, Mendocino, Redding/Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra counties. The intended audience is policymakers and social services. This dataset was curated for a class project within the University of Washington iSchool in Winter 2021.|
+  |description |	This dataset is a combination of point-in-time homeless counts conducted in January 2019 for a set of rural Northern California communities, including Humboldt, Mendocino, Redding/Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra counties. The intended audience is policymakers and social services. This dataset was curated for a class project within the University of Washington iSchool in Winter 2021.|
   |format |	CSV |
   |mediaType  |	CSV |
   |issued |	2021-03-07 |
