@@ -1,7 +1,7 @@
 # Readme
 This .csv format dataset contains point-in-time homeless population counts from 2019, focusing on the rural Northern California counties including Humboldt, Mendocino, Redding/Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra counties. 
 
-It was created for a class at the University of Washington iSchool in March 2021. The intended audience is policymakers and social service workers, with the intented purpose to create legislation and services serving rural homeless communities as well as tracking the rates of homelessness in remote areas of Northern California. The dataset was created from open access government reports from the Department of Housing and Urban Development (HUD), as provided by Continuums of Care (CoC), and it is freely available to the public.
+It was created for a class at the University of Washington iSchool in March 2021. The intended audience is policymakers and social service workers, with the intended purpose to create legislation and services serving rural homeless communities as well as tracking the rates of homelessness in remote areas of Northern California. The dataset was created from open access government reports from the Department of Housing and Urban Development (HUD), as provided by Continuums of Care (CoC), and it is freely available to the public.
 
 # Data Dictionary
   |Variable | Variable Name |	Measurement Unit |	Allowed Values |	Definition |
