@@ -30,7 +30,7 @@ This dataset contains point-in-time homeless population counts from 2019, focusi
   |language |	en-us |
   |modified |	2021-03-08  |
   |publisher  |	Madeline Carruthers |
-  |references |	"https://files.hudexchange.info/reports/published/CoC_PopSub_CoC_CA-516-2019_CA_2019.pdf ", "https://files.hudexchange.info/reports/published/CoC_PopSub_CoC_CA-522-2019_CA_2019.pdf", "https://files.hudexchange.info/reports/published/CoC_PopSub_CoC_CA-509-2019_CA_2019.pdf" |
+  |references |	https://files.hudexchange.info/reports/published/CoC_PopSub_CoC_CA-516-2019_CA_2019.pdf, https://files.hudexchange.info/reports/published/CoC_PopSub_CoC_CA-522-2019_CA_2019.pdf, https://files.hudexchange.info/reports/published/CoC_PopSub_CoC_CA-509-2019_CA_2019.pdf |
   |rights |	These data are publicly available to all within their respective government repositories and within this repository.|
   |temporal |	2020/P1Y  |
   |theme  |	"homeless population", "northern california", "rural communities" |
